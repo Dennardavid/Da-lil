@@ -40,7 +40,7 @@ Copy the cloud Front policy and update the bucket policy
 
 ## Step 7:
 
-Check the cloud Front for the url to the deployed static site
+Check the cloud Front for the url to the deployed static site (Distribution Domain Name)
 
 ![](/juliana/19.png)
 ![](/juliana/20.png)
